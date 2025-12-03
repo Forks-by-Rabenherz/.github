@@ -9,8 +9,6 @@ Welcome to my fork sanctuary! This is where GitHub repositories come when they n
 
 ## Fun Facts
 
-> *WIP...*
-
 <!-- MARKER:STATS-START -->
 
 - **Forks processed:**   38
